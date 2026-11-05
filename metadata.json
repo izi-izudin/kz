@@ -1,0 +1,8 @@
+{
+  "name": "Remix PanzKalkulator",
+  "description": "Smart Calculator App modern, ilmiah, AI Assistant, Photo Math, Voice, dan Finansial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "/",
+  "name": "PanzKalkulator — Smart Calculator",
+  "short_name": "PanzCalc",
+  "description": "Smart Calculator App modern, ilmiah, AI Assistant, Photo Math, Voice, dan Finansial.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090F1E",
+  "theme_color": "#0F172A",
+  "categories": ["utilities", "productivity", "education"],
+  "icons": [
+    {
+      "src": "/assets/aistudio/Ikon_Aplikasi_Kalkulator_P_Biru_446c0cd6.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/aistudio/Ikon_Aplikasi_Kalkulator_P_Biru_446c0cd6.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
